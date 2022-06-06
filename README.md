@@ -15,7 +15,7 @@ data_file_csv.csv
 ### 전처리한 데이터셋
 data_file_csv_final.csv
 
-## 데이터 전처리 과정
+## 데이터 전처리 과정(완료)
 Data_Preprocessing&Cleansing_final.ipynb파일을 확인바랍니다.
 
 ## 알고리즘 파악
@@ -31,5 +31,5 @@ Xai code_final.ipynb파일을 확인바랍니다.
 PDP_final.ipynb파일을 확인바랍니다.
 
 ## 기계학습 기반 학습모델 만들기
-### Model
+### Model(정확도 : 64퍼센트)
 Machine_Learning_Model_final.ipynb파일을 확인바랍니다.
