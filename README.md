@@ -31,5 +31,5 @@ Xai code_final.ipynb파일을 확인바랍니다.
 PDP_final.ipynb파일을 확인바랍니다.
 
 ## 기계학습 기반 학습모델 만들기
-### Model(정확도 : 64퍼센트)
+### Model(정확도 향상 : 68.3퍼센트)
 Machine_Learning_Model_final.ipynb파일을 확인바랍니다.
