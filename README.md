@@ -23,6 +23,8 @@ Data_Preprocessing&Cleansing_final.ipynb파일을 확인바랍니다.
 Boosting_final.ipynb파일을 확인바랍니다.
 ### 배깅 알고리즘(완료)
 Bagging_final.ipynb파일을 확인바랍니다.
+### 의사결정트리 알고리즘(완료)
+_final.ipynb파일을 확인바랍니다.
 
 ## XAI
 ### SHAP(완료)
