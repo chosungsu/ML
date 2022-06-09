@@ -27,9 +27,9 @@ Bagging_final.ipynb파일을 확인바랍니다.
 ## XAI
 ### SHAP(완료)
 Xai code_final.ipynb파일을 확인바랍니다.
-### PDP(미완성 코드 : 제출바랍니다!)
+### PDP(3차원 공간 제외 코드 완료)
 PDP_final.ipynb파일을 확인바랍니다.
 
 ## 기계학습 기반 학습모델 만들기
-### Model(정확도 향상 : 68.3퍼센트)
+### Model(정확도 향상 : 64 -> 68.3퍼센트)
 Machine_Learning_Model_final.ipynb파일을 확인바랍니다.
