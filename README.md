@@ -25,9 +25,10 @@ Boosting_final.ipynb파일을 확인바랍니다.
 Bagging_final.ipynb파일을 확인바랍니다.
 ### 의사결정트리 알고리즘
 DecisionTree_final.ipynb파일을 확인바랍니다.
-#### 의사결정트리 시각화
-Model/decisiontreeimg/dot_prunedtree.dot.png(가지치기 수행)
-Model/decisiontreeimg/dot_noneprunedtree.dot.png(가지치기 미수행)
+ - #### 의사결정트리 시각화
+   --> Model/decisiontreeimg/dot_prunedtree.dot.png(가지치기 수행)
+   
+   --> Model/decisiontreeimg/dot_noneprunedtree.dot.png(가지치기 미수행)
 
 ## XAI
 ### SHAP
