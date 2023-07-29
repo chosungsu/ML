@@ -16,7 +16,7 @@ data_file_csv.csv
 data_file_csv_final.csv
 
 ## 데이터 전처리 과정
-Data_Preprocessing&Cleansing_final.ipynb파일을 확인바랍니다.
+DataEDA.ipynb파일을 확인바랍니다.
 
 ## 알고리즘 파악
 ### 부스팅 알고리즘
@@ -25,6 +25,10 @@ Boosting_final.ipynb파일을 확인바랍니다.
 Bagging_final.ipynb파일을 확인바랍니다.
 ### 의사결정트리 알고리즘
 DecisionTree_final.ipynb파일을 확인바랍니다.
+ - #### 의사결정트리 시각화
+   --> Model/decisiontreeimg/dot_prunedtree.dot.png(가지치기 수행)
+   
+   --> Model/decisiontreeimg/dot_noneprunedtree.dot.png(가지치기 미수행)
 
 ## XAI
 ### SHAP
@@ -34,4 +38,4 @@ PDP_final.ipynb파일을 확인바랍니다.
 
 ## 기계학습 기반 학습모델 만들기
 ### Model
-Machine_Learning_Model_final.ipynb파일을 확인바랍니다.
+FinalModel.ipynb파일을 확인바랍니다.
