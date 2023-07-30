@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-- [Introduction](#기계학습-프로젝트)
+- [Introduction](#introdution)
 - [Workflow](#workflow)
 - [TODO](#todo)
 - [Authors](#authors)
 
-## 기계학습 프로젝트
+## Introdution
 
-This project was conducted from March 2022 to June 2022 on the development of an automatic recommendation algorithm for destination based on the starting point using data on the use of call taxis for people with disabilities.
+This project was conducted from March 2022 to June 2022 at Machine Learning lecture on the development of an automatic recommendation algorithm for destination based on the starting point using data on the use of call taxis for people with disabilities.
 
 ## Workflow
 
