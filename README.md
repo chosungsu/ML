@@ -46,7 +46,7 @@ We created an algorithm written in Python that utilizes boosting, bagging, and o
 
 ## TODO
 
-We have proceeded with the deployment process through the Flutter framework based on web apps, but as for the current final state, it runs normally only on the local emulator. We are currently discussing expanding the service through hosting servers in the future within our team.
+We proceeded with visualization through XAI and PDP, and the code for the previous version of the PDP library was completed. However, since the library has been updated, we plan to proceed with the new version of the code in the future.
 - [x] DecisionTreeModeling
 - [x] Boosting
 - [x] Voting
