@@ -5,7 +5,7 @@
 - [Introduction](#introdution)
 - [Workflow](#workflow)
 - [TODO](#todo)
-- [Authors](#authors)
+- [Contributors](#contributors)
 
 ## Introdution
 
@@ -55,8 +55,18 @@ We have proceeded with the deployment process through the Flutter framework base
    - [x] Old Version
    - [ ] New Version
  
-## Authors
+## Contributors
 
 Here is the list of
 [contributors](https://github.com/ChocoPytoch/BISTelligence/graphs/contributors)
 who participated in this project.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/chosungsu"><img src="https://avatars.githubusercontent.com/u/48382347?v=4?s=100" width="100px;" alt="chosungsu"/><br /><sub><b>chosungsu</b></sub></a><br /><a href="https://github.com/chosungsu/ML/commits?author=chosungsu" title="Commits">📖</a> </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tlsgofl"><img src="https://avatars.githubusercontent.com/u/105846994?v=4?s=100" width="100px;" alt="tlsgofl"/><br /><sub><b>tlsgofl</b></sub></a><br /><a href="https://github.com/chosungsu/ML/commits?author=tlsgofl" title="Commits">📖</a> </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/donggyun28"><img src="https://avatars.githubusercontent.com/u/83553190?v=4?s=100" width="100px;" alt="donggyun28"/><br /><sub><b>donggyun28</b></sub></a><br /><a href="https://github.com/chosungsu/ML/commits?author=donggyun28" title="Commits">📖</a> </td>
+    </tr>
+  </tbody>
+</table>
