@@ -58,7 +58,7 @@ We have proceeded with the deployment process through the Flutter framework base
 ## Contributors
 
 Here is the list of
-[contributors](https://github.com/ChocoPytoch/BISTelligence/graphs/contributors)
+[contributors](https://github.com/chosungsu/ML/graphs/contributors)
 who participated in this project.
 
 <table>
